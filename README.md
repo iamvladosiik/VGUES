@@ -1,3 +1,3 @@
 # VGUES
-Python
+Python.
 это наш первый проект на phyton
